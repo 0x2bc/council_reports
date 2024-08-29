@@ -8,11 +8,10 @@
 
 ## 1. Composition
 
-- **0x2bc**, 0%
+- **l1dev**, 25%
 - **leet_joy**, 23%
 - **0x2bc**, 19%
 - **Jenny**, 1%
-- **l1dev**, 25%
 - **realDonaldTrump**, 1%
 
 
