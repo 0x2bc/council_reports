@@ -177,15 +177,15 @@ ema30 (prev term)= 0.01
 
 **Chart 7.2. Overall spending for current term, USDT**
 
-![_graph_overallPieChart](_graph_overallPieChart)
+![image](https://github.com/user-attachments/assets/9891e958-92a2-4da2-8a1c-96baacfcf432)
 
 **Chart 7.3. Overall spending (current term VS prev term), JOY**
 
-![_graph_overallBudget-joy](_graph_overallBudget-joy)
+![image](https://github.com/user-attachments/assets/f72b1e48-373a-4e66-8102-5c03abfe2731)
 
 **Chart 7.4. Overall spending (current term VS prev term), USDT**
 
-![_graph_overallBudget-usdt](_graph_overallBudget-usdt)
+![image](https://github.com/user-attachments/assets/5cf3e638-ed60-4de9-91d8-59bac4aee769)
 
 ### **WGs’ Spending**
 
@@ -210,12 +210,12 @@ EMA30 (prev term)= 0.01
 
 **Chart 7.6. WGs’ spending for current term, USDT**
 
-![_graph_wgPieChart](_graph_wgPieChart)
+![image](https://github.com/user-attachments/assets/2a1de17e-ff9c-47be-9853-b0e58606cd27)
 
 **Chart 7.7. WGs’ spending (current term VS prev term), JOY**
 
-![_graph_wgBudget-joy](_graph_wgBudget-joy)
+![image](https://github.com/user-attachments/assets/50a0ac16-9e67-469f-ac9c-cec087afc79b)
 
 **Chart 7.8. WGs’ spending (current term VS prev term), USDT**
 
-![_graph_wgBudget-usdt](_graph_wgBudget-usdt)
+![image](https://github.com/user-attachments/assets/509b2827-a3bb-42e9-a462-1aef31a259b0)
